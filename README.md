@@ -15,8 +15,9 @@ This is a React Native App. A simple app to discover and follow step-by-step rec
    npm install
 
 2. **Start the development server**
+   ```bash
     npm start
 
-3. **Run the app**
+4. **Run the app**
     Press a to launch on Android
     Press i to launch on iOS
